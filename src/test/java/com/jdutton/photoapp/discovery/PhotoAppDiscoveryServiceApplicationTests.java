@@ -1,4 +1,4 @@
-package com.jdutton.photoapp.discovery.PhotoAppDiscoveryService;
+package com.jdutton.photoapp.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
